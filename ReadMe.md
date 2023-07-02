@@ -10,7 +10,7 @@
 - Machine Learning
 
 ## My skills
-- ⁉⁉ C++, Java, JavaScript, Python 
+- ⁉⁉ 
 
-Feel free to connect with me and explore these exciting fields together!
+
 

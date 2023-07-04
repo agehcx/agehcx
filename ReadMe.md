@@ -1,4 +1,4 @@
-# Hi there I'm agehcx
+# Hi there I'm agehcx 🧌
 
 👨‍🎓 I'm currently studying Computer Engineering & Digital Technology at Chulalongkorn University.
 

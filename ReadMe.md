@@ -1,16 +1,22 @@
-# Hi there I'm agehcx 🧌
+# About Me
 
-👨‍🎓 I'm currently studying Computer Engineering & Digital Technology at Chulalongkorn University.
+## Hello World! 👋
 
-## Field of Interest
+I'm Nakamon, a passionate Computer Engineering student just diving into the wild world of coding. I'm not your typical tech wizard (yet).
 
-- Computer Science
-- Artificial Intelligence
-- Robotics
-- Machine Learning
+## 🚀 Quick Overview
 
-## My skills
-- ⁉⁉ 
+- 🎓 **Academic Background**: Computer Engineering & Digital Technology student at Chulalongkorn University.
+- 💡 **Interests**: Software Development, Data Analyst, Artificial Intelligence, Cryptocurrency, Investment and Estate.
+- 🌱 **Currently Learning**: C++, Python, Go.
 
 
 
+## 🌐 Connect with Me
+
+- **Email**: chega.malee@gmail.com
+
+## 🤓 Fun Facts
+
+- I touch grass
+- Sometimes i don't

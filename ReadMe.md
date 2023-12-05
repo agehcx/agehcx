@@ -2,7 +2,7 @@
 
 ## Hello World! 👋
 
-I'm Nakamon, a passionate Computer Engineering student just diving into the wild world of coding. I'm not your typical tech wizard (yet).
+I'm a passionate Computer Engineering student just diving into the wild world of coding. I'm not your typical tech wizard (yet).
 
 ## 🚀 Quick Overview
 
